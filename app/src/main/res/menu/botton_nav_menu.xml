@@ -3,7 +3,7 @@
     <item
         android:id="@+id/nav_home"
         android:icon="@drawable/logolaliga"
-        android:title="laliga" />
+        android:title="laaliga" />
     <item
         android:id="@+id/nav_dashboard"
         android:icon="@android:drawable/ic_menu_recent_history"
@@ -13,3 +13,4 @@
         android:icon="@android:drawable/ic_menu_info_details"
         android:title="credits" />
 </menu>
+
